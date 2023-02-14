@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1>Adrian Eskridge Jr. <br/><a href="https://github.com/joshmadakor1">Data Analyst
+<h2>👨‍💻 My Projects</h2>
+
+- <b>Sql Projects</b>
+  - [Performing various Sql queries to gain insights](https://github.com/acecosgrove/Sql_queries_made_from_dataset)
+  
+  
+  
+  
+- <b>Tableau Projects</b>
+  - [2016_Seattle_Airbnb_Dash](https://github.com/acecosgrove/2016seattle_Airbnb_Dashboard)</b></i>
+- <b> </b>
+  - [02-2018_Ny_Citibibike_Dash](https://github.com/acecosgrove/02-2018_Ny_CitiBike_Dash)
+
 
 <!--
-**acecosgrove/acecosgrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
