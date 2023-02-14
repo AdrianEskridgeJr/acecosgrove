@@ -10,7 +10,7 @@
 - <b>Tableau Projects</b>
   - [2016_Seattle_Airbnb_Dash](https://github.com/acecosgrove/2016seattle_Airbnb_Dashboard)</b></i>
 - <b> </b>
-  - [02-2018_Ny_Citibibike_Dash](https://github.com/acecosgrove/02-2018_Ny_CitiBike_Dash)
+  - [02-2018_Ny_Citibike_Dash](https://github.com/acecosgrove/02-2018_Ny_CitiBike_Dash)
 
 
 <!--
